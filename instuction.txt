@@ -1,0 +1,17 @@
+Prerequisite
+    > Compose (https://getcomposer.org/Composer-Setup.exe)
+    > Laragon
+
+1. Create Black Project (Sample Project) in Laragon
+2. Go to (Sample Project) and open with code
+3. In VS Code Open Terminal
+4. Type this command: (composer require slim/slim:"4.*") to install Slim Framework
+5. Also, type this command in this Following:
+        > composer require slim/psr7
+        > composer require nyholm/psr7 nyholm/psr7-server
+        > composer require guzzlehttp/psr7 "^2"
+        > composer require laminas/laminas-diactoros
+
+6. Done the installation of Slim PHP
+7. To Learn More Watch this Video: https://youtu.be/DHUxnUX7Y2Y (NOTE: This Video was use XAMPP so you can skip that part)
+8. This Project use POSTMAN API to test this functions
