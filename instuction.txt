@@ -15,3 +15,9 @@ Prerequisite
 6. Done the installation of Slim PHP
 7. To Learn More Watch this Video: https://youtu.be/DHUxnUX7Y2Y (NOTE: This Video was use XAMPP so you can skip that part)
 8. This Project use POSTMAN API to test this functions
+9. I add the files and folders in this following: 
+        > public/.htaccess
+        > public/index.php
+        > src/routes/students.php
+        > src/config/db.php
+        
